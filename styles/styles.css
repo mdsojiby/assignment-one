@@ -88,8 +88,21 @@ background-position-y: bottom;
     text-align: center;
     padding: 50px
 }
+.resume-title{
+    font-size: 40px;
+    font-weight: bold;
+}
+
 
 .iframe{
     width: 1000px;
 }
 
+.more{
+    text-align: center;
+}
+
+.footer{
+    text-align: center;
+    background-image: url('../assets/handshake.jpg');
+}
